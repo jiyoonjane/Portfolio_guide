@@ -24,8 +24,8 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ## Machine Learning Projects
 
-| Project Link                          | Tools | Project Description |
-| ------------------------------------ | --------------- | ----- | ------------------- |
+| Project Link                                                                | Tools                                                                | Project Description                                                                                                                                                                                                                                                                                                                        |
+| --------------------------------------------------------------------------  | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [👩‍⚕️Lung-Cancer-Prediction-Model](https://github.com/jiyoonjane/Lung-Cancer-Prediction-Model?tab=readme-ov-file#lung-cancer-prediction-model) |Python,Jupyter Notebook                    |    This project builds machine learning models—multinomial and binary logistic regression (including L1 regularization) as well as a Random Forest–logistic regression hybrid—to predict lung cancer risk from personal health and lifestyle data, identify the most influential risk factors, and support early screening and prevention strategies.                 |
 
 ---
@@ -40,11 +40,5 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | [💰Data Science Jobs salaries Dashboard](https://public.tableau.com/app/profile/jiyoon.shin1127/viz/DataScienceJobssalariesDashboard_17467813346390/1) |    May 2025             |  Tableau     | This dashboard delivers an interactive overview of global data science job salaries—visualizing average pay by employment type and experience level, company size and experience distributions, geographic salary maps, top residential countries, and a detailed salary table by job title.                    |
 ---
 
-## Machine Learning Projects
 
-| Dashboard Name                                               | Link | Tools | Description |
-| ------------------------------------------------------------ | ---- | ----- | ----------- |
-| *(Add your Tableau dashboards and interactive reports here)* |      |       |             |
-
----
 
