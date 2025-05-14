@@ -8,7 +8,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 * [SQL Projects](#sql-projects)
 * [Python Projects](#python-projects)
-* [Tableau Dashboards](#tableau-dashboards)
+* [Data Visualization Dashboards](#Data-Visualization-Dashboards)
 
 
 ---
@@ -30,14 +30,14 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ---
 
-## Tableau Dashboards
+## Data Visualization Dashboards
 
 | Project Link                                             | Completion Date | Tools | Project Description |
 | -------------------------------------------------------- | --------------- | ----- | ------------------- |
-| [📺Amazon Prime video IMDb Dashboard](https://public.tableau.com/app/profile/jiyoon.shin1127/viz/AmazonPrimevideoIMDBDashboard/1) |    2025/05/10             |  Tableau     | This dashboard categorizes Prime Video’s movies and TV shows by country, genre, rating, and content type—visualizing their counts and relative proportions—and provides a clear, at-a-glance view of how total content has grown over release years.                    |
-| [📺Netflix IMDb Dashboard](https://public.tableau.com/app/profile/jiyoon.shin1127/viz/NetflixDashboards-blackver_/1) |    2025/05/08             |  Tableau     | his dashboard provides an interactive overview of Netflix’s movies and TV shows—mapping their country of origin, visualizing rating and genre distributions, and showing content-type share alongside release-year growth—while displaying key metadata for a selected title.                    |
-| [🏠Superstore Dashboard](https://public.tableau.com/app/profile/jiyoon.shin1127/viz/SuperstoreDashboard_17466218299710/sheet0)) |    2025/05/07             |  Tableau     | This dashboard provides a South Korea Superstore overview—displaying key KPIs (profit, sales, orders, discount rate), monthly sales trends, product-category and regional profit breakdowns, and customer order distribution.                    |
-| [💰Data Science Jobs salaries Dashboard](https://public.tableau.com/app/profile/jiyoon.shin1127/viz/DataScienceJobssalariesDashboard_17467813346390/1) |    2025/05/09             |  Tableau     | This dashboard delivers an interactive overview of global data science job salaries—visualizing average pay by employment type and experience level, company size and experience distributions, geographic salary maps, top residential countries, and a detailed salary table by job title.                    |
+| [📺Amazon Prime video IMDb Dashboard](https://public.tableau.com/app/profile/jiyoon.shin1127/viz/AmazonPrimevideoIMDBDashboard/1) |    May 2025           |  Tableau     | This dashboard categorizes Prime Video’s movies and TV shows by country, genre, rating, and content type—visualizing their counts and relative proportions—and provides a clear, at-a-glance view of how total content has grown over release years.                    |
+| [📺Netflix IMDb Dashboard](https://public.tableau.com/app/profile/jiyoon.shin1127/viz/NetflixDashboards-blackver_/1) |    May 2025              |  Tableau     | his dashboard provides an interactive overview of Netflix’s movies and TV shows—mapping their country of origin, visualizing rating and genre distributions, and showing content-type share alongside release-year growth—while displaying key metadata for a selected title.                    |
+| [🏠Superstore Dashboard](https://public.tableau.com/app/profile/jiyoon.shin1127/viz/SuperstoreDashboard_17466218299710/sheet0)) |    May 2025             |  Tableau     | This dashboard provides a South Korea Superstore overview—displaying key KPIs (profit, sales, orders, discount rate), monthly sales trends, product-category and regional profit breakdowns, and customer order distribution.                    |
+| [💰Data Science Jobs salaries Dashboard](https://public.tableau.com/app/profile/jiyoon.shin1127/viz/DataScienceJobssalariesDashboard_17467813346390/1) |    May 2025             |  Tableau     | This dashboard delivers an interactive overview of global data science job salaries—visualizing average pay by employment type and experience level, company size and experience distributions, geographic salary maps, top residential countries, and a detailed salary table by job title.                    |
 ---
 
 ## Machine Learning Projects
