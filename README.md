@@ -34,7 +34,8 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link                                             | Completion Date | Tools | Project Description |
 | -------------------------------------------------------- | --------------- | ----- | ------------------- |
-| *(Add your Python scripting and analysis projects here)* |                 |       |                     |
+| [📺Amazon Prime video IMDb Dashboard](https://public.tableau.com/app/profile/jiyoon.shin1127/viz/AmazonPrimevideoIMDBDashboard/1) |    2025/05/10             |  Tableau     |                     |
+| [📺Netflix IMDb Dashboard]([https://public.tableau.com/app/profile/jiyoon.shin1127/viz/AmazonPrimevideoIMDBDashboard/1](https://public.tableau.com/app/profile/jiyoon.shin1127/viz/NetflixDashboards-blackver_/1)) |    2025/05/08             |  Tableau     |                     |
 
 ---
 
